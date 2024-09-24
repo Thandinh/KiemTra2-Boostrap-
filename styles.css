@@ -1,0 +1,30 @@
+.logo-bn {
+    width: 256px;
+    height: 150px;
+}
+
+.hd-banner{
+    width: 650px;
+    height: 100px;
+}
+
+.img-100{
+    width: 100px;
+}
+
+.img-sl{
+    width: 800px;
+    height: 400px;
+}
+
+.fs-n{
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bg-red{
+    background-color: brown;
+}
